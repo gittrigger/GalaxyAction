@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:isScrollContainer="true"
+	    android:layout_width="1650px"
+	    android:layout_height="480px"
+	    >
+	    
+	    <ImageView android:src="@drawable/icon" android:layout_height="480px" android:layout_width="1650px" android:adjustViewBounds="true" android:scaleType="fitXY" android:layout_alignParentTop="true" />
+	
+	</RelativeLayout>
